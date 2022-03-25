@@ -1,5 +1,5 @@
 <p>
-  <a href="https://keencho.github.io/" target="_blank"><img src="https://img.shields.io/badge/Keencho's Blog-484f58?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+  <a href="https://keencho.github.io/"><img src="https://img.shields.io/badge/Keencho's Blog-484f58?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
   <a href="mailto:seyoung050412@gmail.com"><img src="https://img.shields.io/badge/seyoung050412@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seyoung050412@gmail.com"/></a>
 </p>
 
@@ -19,7 +19,6 @@
   <br/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=Quarkus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
