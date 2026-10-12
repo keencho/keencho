@@ -1,4 +1,5 @@
 <p>
+  <a href="https://keencho.com"><img src="https://img.shields.io/badge/Resume-keencho.com-111111?style=flat-square&logo=readdotcv&logoColor=white"/></a>
   <a href="https://keencho.github.io/"><img src="https://img.shields.io/badge/keencho's Blog-484f58?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
   <a href="mailto:seyoung050412@gmail.com"><img src="https://img.shields.io/badge/seyoung050412@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seyoung050412@gmail.com"/></a>
 </p>
